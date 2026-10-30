@@ -1,6 +1,5 @@
 services:
   - type: web
-    name: vps-migrate
+    name: vps-migrate-gui
     runtime: static
-    buildCommand: echo "no build"
     staticPublishPath: .
