@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: vps-migrate-gui
+    runtime: static
+    staticPublishPath: .
